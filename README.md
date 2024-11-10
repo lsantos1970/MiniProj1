@@ -1,4 +1,4 @@
-# vue-router-test
+# MiniProj1
 
 ## Project setup
 ```
