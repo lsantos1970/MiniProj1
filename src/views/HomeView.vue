@@ -1,6 +1,8 @@
 <template>
+  <h1>Benvindo à minha página pessoal</h1>
+  <img alt="Vue logo" src="../assets/Homepicture.jpg" />
   <div class="home">
-    <HelloLuis msg="Benvindo à minha página pessoal" />
+    <HelloLuis msg="" />
   </div>
 </template>
 

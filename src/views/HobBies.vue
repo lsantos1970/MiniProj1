@@ -1,6 +1,7 @@
 <template>
   <div class="hobbies">
     <h1>TRIATLO</h1>
+    <img alt="Vue logo" src="../assets/triatlo.png" />
     <p>
       Desde 2008 que entrei no mundo do Triatlo<br />
       começando pelas distâncias menores, mas neste<br />
